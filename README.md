@@ -18,3 +18,5 @@ https://sql-ex.ru/
 // Аренда автомобилей
 https://docs.google.com/spreadsheets/d/1JxnHIjRYpLf_0R6Mopd3BdERFNeplhj9NcTrtncTk4c/edit?usp=sharing
 
+// Библиотека данных
+https://docs.google.com/spreadsheets/d/1kT22CoTLntv0kaMwhgSHTbe-_nEn275HYzPG0oY3cX8/edit?usp=sharing
