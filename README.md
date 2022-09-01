@@ -20,3 +20,6 @@ https://docs.google.com/spreadsheets/d/1JxnHIjRYpLf_0R6Mopd3BdERFNeplhj9NcTrtncT
 
 // Библиотека данных
 https://docs.google.com/spreadsheets/d/1kT22CoTLntv0kaMwhgSHTbe-_nEn275HYzPG0oY3cX8/edit?usp=sharing
+
+//Задача описать базу данных для школьного кабинета, в рамках которой можно фиксировать, кто и в какое время сидел за той или иной партой
+https://docs.google.com/spreadsheets/d/1laZjKNnHRwey_eIcfJ8rR9EX8XcQlsFLg1My4H_DOq4/edit?usp=sharing
